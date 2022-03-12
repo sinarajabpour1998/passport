@@ -22,7 +22,8 @@
     },
     "autoload": {
         "psr-4": {
-            "SRA\\Passport\\": "src/"
+            "SRA\\Passport\\": "src/",
+            "SRA\\Passport\\Tests\\": "tests/"
         }
     },
     "extra": {
